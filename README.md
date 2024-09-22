@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working as a translator/intepreter of Japanese/Portuguese
+- 🌱 I’m currently learning ... Python and Javascript
+- I'm starting to use github for my college projects and also my personal projects
 
 <!--
 **Victor-Koichi/Victor-Koichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
