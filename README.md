@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working as a translator/intepreter of Japanese/Portuguese
+- 🔭 I’m currently working as a translator/intepreter of Japanese/Portuguese + Production Engineer
 - 🌱 I’m currently learning ... Python and Javascript
 - I'm starting to use github for my college projects and also my personal projects
 
